@@ -148,4 +148,4 @@ As referências dos trigger/graph prototypes foram atualizadas junto.
 
 Projeto derivado de template comunitário Dell N-Series e adaptado/testado para Zabbix 7 e Dell EMC N1124P-ON.
 
-A URL, autoria, revisão e licença exatas da base ainda não foram identificadas nos arquivos disponíveis. Não atribuo ao código de terceiros uma licença presumida. Consulte [ORIGIN.md](ORIGIN.md) para a pendência de proveniência.
+A base técnica foi identificada como [zbx-dell-n-series](https://github.com/business-communication/zbx-dell-n-series), historicamente referenciada como Elkropac/zbx-dell-n-series. A revisão efetivamente utilizada e a licença continuam pendentes de confirmação. Consulte [ORIGIN.md](ORIGIN.md) para evidências da comparação, atribuição e limites.
